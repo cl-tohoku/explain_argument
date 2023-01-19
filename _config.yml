@@ -1,3 +1,5 @@
+'''
 theme: minima
 title: Explain to Me What is Wrong with My Arguments: A Survey about Explanations In Argumentation
 description: The use of argumentation in education has been shown to improve critical thinking skills for end-users such as stu- dents, and computational models for argumentation have been developed to assist in this process. Although these models are useful for evaluating the quality of an argument, they oftentimes cannot explain why a particular argument is considered poor or not, which makes it difficult to provide constructive feedback to users to strengthen their critical thinking skills. In this survey, we aim to explore the type of explanations provided by the current computational mod- els for argumentation, and the possibility of enhancing the explainability of such models, ultimately helping learners improve their critical thinking skills.
+'''
