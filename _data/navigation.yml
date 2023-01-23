@@ -1,0 +1,13 @@
+# Site navigation links
+main:
+- title: Home
+  url: /
+
+- title: Shallow Explanations
+  url: /shallo_explanations/
+
+- title: In-Depth Explanations
+  url: /in-depth_explanations/
+
+- title: Interactive Explanations
+  url: /interactive_explanations/
