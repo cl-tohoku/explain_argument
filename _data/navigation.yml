@@ -1,13 +1,13 @@
 # Site navigation links
 main:
 - title: Home
-  url: /
+  url: /explain_arguments/
 
 - title: Shallow Explanations
-  url: /shallow_explanations/
+  url: /explain_arguments/shallow_explanations/
 
 - title: In-Depth Explanations
-  url: /in-depth_explanations/
+  url: /explain_arguments/in-depth_explanations/
 
 - title: Interactive Explanations
-  url: /interactive_explanations/
+  url: /explain_arguments/interactive_explanations/

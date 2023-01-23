@@ -23,7 +23,7 @@ title: Explain to Me What Is Wrong With My Arguments
 description: >- # this means to ignore newlines until "baseurl:"
   Companion site for "Explain to Me What Is Wrong With My Arguments: A Survey about Explanations in Argumentation"
 #baseurl: "/exnlp-datasets" # the subpath of your site, e.g. /blog
-url: "cl-tohoku.github.io/" # the base hostname & protocol for your site, e.g. http://example.com
+url: "http://cl-tohoku.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 #twitter_username: jekyllrb
 github_username:  explain_arguments
 
