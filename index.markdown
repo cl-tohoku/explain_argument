@@ -9,10 +9,10 @@ The use of argumentation in education has been shown to improve critical thinkin
 
 This website collects references for explanations in argumentation, ultimately helping learners improve their critical thinking skills.
 
-Explanations are grouped by explanation type: 
+Explanations are grouped by type: 
 
-* [Shallow](https://cl-tohoku.github.io/explain_arguments/shallow_explanations)
-* [In-Depth](https://cl-tohoku.github.io/explain_arguments/in-depth_explanations)
-* [Interactive](https://cl-tohoku.github.io/explain_arguments/interactive_explanations)
+* [Shallow Explanations](https://cl-tohoku.github.io/explain_arguments/shallow_explanations)
+* [In-Depth Explanations](https://cl-tohoku.github.io/explain_arguments/in-depth_explanations)
+* [Interactive Explanations](https://cl-tohoku.github.io/explain_arguments/interactive_explanations)
 
 
