@@ -11,8 +11,8 @@ This website collects references for explanations in argumentation, ultimately h
 
 Explanations are grouped by type: 
 
-* [Shallow Explanations](https://cl-tohoku.github.io/explain_arguments/shallow_explanations)
-* [In-Depth Explanations](https://cl-tohoku.github.io/explain_arguments/in-depth_explanations)
-* [Interactive Explanations](https://cl-tohoku.github.io/explain_arguments/interactive_explanations)
+* [Shallow Explanations](explain_arguments/shallow_explanations)
+* [In-Depth Explanations](explain_arguments/in-depth_explanations)
+* [Interactive Explanations](explain_arguments/interactive_explanations)
 
 
