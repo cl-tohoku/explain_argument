@@ -5,7 +5,7 @@ title: In-Depth Explanations
 
 > **In-Depth Explanations**: The model identifies an error and explains how to refine the argument in a way the end-user can understand (i.e., *why* it is wrong)
 
-| Sub-section | Author | Title |
+| Sub-section | Authors | Title |
 |-------------|--------|-------|
 Implicit knowledge | Maria Becker, Siting Liang, and Anette Frank. | [RecoProceedings of Deep Learning Inside Out (DeeLIO): The 2nd Workshop on Knowledge Extraction and Integration for Deep Learning Architectures, pp. 11--24, Online, June 2021. Association for Computational Linguistics.](https://aclanthology.org/2021.deelio-1.pdf) | 
 Implicit knowledge | Yohan Jo, Haneul Yoo, JinYeong Bak, Alice Oh, Chris Reed, and Eduard Hovy. | [Knowledge-enhanced evidence retrieval for counterargument generation. In Findings of the Association for Computational Linguistics: EMNLP 2021, Online, November 2021. Association for Computational Linguistics.](https://aclanthology.org/2021.findings-emnlp.264.pdf) | 

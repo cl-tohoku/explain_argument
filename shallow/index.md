@@ -5,7 +5,7 @@ title: Shallow Explanations
 
 > **Shallow Explanations**: The model identifies an error but doesn't explain how and why it should be corrected (i.e., *what* is wrong)
 
-| Sub-section | Author | Title |
+| Sub-section | Authors | Title |
 |-------------|--------|-------|
 Components | Simone Teufel. | [Argumentative zoning: Information extraction from scientific text. 1999.](https://www.cl.cam.ac.uk/~sht25/thesis/t1.pdf) | 
 Components | Christian Stab and Iryna Gurevych. | [Identifying argumentative discourse structures in persuasive essays. In Proceedings of the 2014 Conference on Empirical Methods in Natural Language Processing (EMNLP), pp. 46--56, Doha, Qatar, October 2014. Association for Computational Linguistics.](https://aclanthology.org/D14-1006.pdf) | 
