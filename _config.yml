@@ -18,10 +18,10 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-#title: Explain to Me What Is Wrong With My Arguments
-#email: your-email@example.com
-#description: >- # this means to ignore newlines until "baseurl:"
- # Companion site for "Explain to Me What Is Wrong With My Arguments: A Survey about Explanations in Argumentation"
+title: Explain to Me What Is Wrong With My Arguments
+#email: guerraoui.camelia.kenza.q4@dc.tohoku.ac.jp
+description: >- # this means to ignore newlines until "baseurl:"
+ # 
 #baseurl: "/exnlp-datasets" # the subpath of your site, e.g. /blog
 url: "http://cl-tohoku.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 #twitter_username: jekyllrb
